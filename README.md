@@ -10,3 +10,13 @@ Here you can find my image [image](https://github.com/newmomav/test1/blob/main/t
 :smile:
 :bamboo:
 :sunflower:
+
+## checkboxes
+- [X] Git and Github
+- [ ] CSS
+
+## tables
+| HTML | CSS |
+| ---- | --- |
+| 4weeks | 6weeks |
+| easy | normal |
